@@ -81,4 +81,4 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+- In the last few years, [Vite](https://vite.dev/) has become the most popular web bundler on new projects. It's significantly faster and easier to use than Webpack, at the cost of having less flexibility. Now that you know the nitty-gritty of bundlers, you might find Vite useful for building quick prototypes.
